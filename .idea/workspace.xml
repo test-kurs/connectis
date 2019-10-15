@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b771fbfe-762b-4608-91b3-b5e7e79d8153" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="JavaFXApplication" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1RH08KACuwDFkLOIv5zzMF1AMgW" />
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../day3" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Jakub\IdeaProjects\connectis\src\zadanie_4_10_cz2" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="zadania_4_10" />
+      <recent name="praca_domowa_4_10" />
+      <recent name="interfejsy" />
+    </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="interfejsy" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.MainSwitch">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="zadanie_4_10_cz2.Main" />
+      <module name="connectis" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="zadania_4_10.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MainCzłowiek" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="zadania_4_10.MainCzłowiek" />
+      <module name="connectis" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="zadania_4_10.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MainMath" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="zadania_4_10.MainMath" />
+      <module name="connectis" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="zadania_4_10.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MainRekurencja" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="zadania_4_10.MainRekurencja" />
+      <module name="connectis" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="zadania_4_10.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MainSwitch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="zadania_4_10.MainSwitch" />
+      <module name="connectis" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="zadania_4_10.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.MainSwitch" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.MainRekurencja" />
+        <item itemvalue="Application.MainMath" />
+        <item itemvalue="Application.MainCzłowiek" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b771fbfe-762b-4608-91b3-b5e7e79d8153" name="Default Changelist" comment="" />
+      <created>1569308553461</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1569308553461</updated>
+    </task>
+    <servers />
+  </component>
+</project>
